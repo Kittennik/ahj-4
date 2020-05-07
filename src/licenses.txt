@@ -1,0 +1,2 @@
+Изображения взяты с сайта https://findicons.com/ (почему Chrome все время закрывается при скачивании иконок?!!!)
+Номера карт для тестовой проверки взяты с сайта https://developer.rbk.money/docs/payments/refs/testcards/
