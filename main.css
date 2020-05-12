@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+div#cards > div > img {
+  width: 54px;
+  opacity: 0.2;
+}
+
+div#cards {
+  display: flex;
+}
+
+.check {
+  background-color: rgb(74, 248, 74);
+  color: white;
+  border-radius: 20px;
+  padding: 5px 20px;
+  outline: none;
+}
